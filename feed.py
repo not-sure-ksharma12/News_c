@@ -7,7 +7,7 @@ from openai import OpenAI
 from pymongo import MongoClient
 
 # OpenAI API Client
-openai_client = OpenAI(api_key="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")
+openai_client = OpenAI(api_key="#enter your api key here")
 
 # MongoDB connection
 MONGO_URI = "mongodb://localhost:27017/"
